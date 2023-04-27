@@ -1,0 +1,8 @@
+train: ../data/train
+test: ../data/valid
+val: ../data/valid
+#Classes
+nc: 8 # replace according to your number of classes
+#classes names
+#replace all class names list with your classes names
+names: ['creatures', 'fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray'] 
